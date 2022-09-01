@@ -1,0 +1,2 @@
+The NN was not able to reach 75% accuracy. After increasing the number of EPOCHS (iterations) I was not able to let the Neural Network learn enough to increase it's accuracy
+I was unable to get the NN to reach 75 % accuracy. A few adjustments I made was the number of EPOCHS (iterations) twice, and layers. I increased EPOCHS to a point it was overtrained and had decreased accuracy. I wasn't able to 
